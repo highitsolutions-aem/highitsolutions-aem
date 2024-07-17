@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/highitproject" mode="merge"/>
+    <filter root="/content/highitproject" mode="merge"/>
+    <filter root="/content/dam/highitproject" mode="merge">
+        <exclude pattern="/content/dam/highitproject(/.*)?"/>
+        <include pattern="/content/dam/highitproject/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/highitproject/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/highitproject" mode="merge"/>
+</workspaceFilter>
