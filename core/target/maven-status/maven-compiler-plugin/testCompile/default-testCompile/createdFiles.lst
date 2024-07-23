@@ -1,0 +1,7 @@
+com\highit\aem\core\listeners\SimpleResourceListenerTest.class
+com\highit\aem\core\filters\LoggingFilterTest.class
+com\highit\aem\core\models\HelloWorldModelTest.class
+com\highit\aem\core\testcontext\AppAemContext$1.class
+com\highit\aem\core\testcontext\AppAemContext.class
+com\highit\aem\core\schedulers\SimpleScheduledTaskTest.class
+com\highit\aem\core\servlets\SimpleServletTest.class

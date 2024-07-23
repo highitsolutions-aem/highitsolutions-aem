@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>High IT Project - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.highit:aem-highit.ui.apps:0.0.1-SNAPSHOT=maven:com.highit:aem-highit.ui.apps:0.0.1-SNAPSHOT:zip</entry>
+<entry key="created">2024-07-23T19:02:02.531Z</entry>
+<entry key="groupId">com.highit</entry>
+<entry key="description">UI content package for High IT Project</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.highit:aem-highit.ui.apps:0.0.1-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">aem-highit.ui.content</entry>
+<entry key="artifactId">aem-highit.ui.content</entry>
+<entry key="group">com.highit</entry>
+</properties>

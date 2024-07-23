@@ -1,0 +1,13 @@
+com\highit\aem\core\filters\package-info.class
+com\highit\aem\core\schedulers\package-info.class
+com\highit\aem\core\servlets\SimpleServlet.class
+com\highit\aem\core\models\HelloWorldModel.class
+com\highit\aem\core\schedulers\SimpleScheduledTask.class
+com\highit\aem\core\servlets\package-info.class
+com\highit\aem\core\listeners\SimpleResourceListener.class
+com\highit\aem\core\models\package-info.class
+com\highit\aem\core\listeners\package-info.class
+com\highit\aem\core\filters\LoggingFilter.class
+com\highit\aem\core\models\HeroSlingModel.class
+com\highit\aem\core\models\TestModel.class
+com\highit\aem\core\schedulers\SimpleScheduledTask$Config.class
